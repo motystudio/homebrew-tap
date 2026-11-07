@@ -1,6 +1,6 @@
 cask "simlease" do
-  version "1.1.0"
-  sha256 "8e004999c72f3525ae637dc8bd97865364e9ca5e24e3119778ee1f25d63f472f"
+  version "1.1.1"
+  sha256 "ad5aa75b791f496c6495219c389afaf70f073ad330d286a33d0ad685bab94b8a"
 
   url "https://github.com/motystudio/SimLease/releases/download/v#{version}/SimBar-#{version}.zip"
   name "SimLease"
